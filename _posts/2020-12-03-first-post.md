@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Donghyeon Khim's blog!"
+title: "Test page"
 date: 2020-12-03 23:38:28 -0400
 categories: test
 ---
